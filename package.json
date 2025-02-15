@@ -1,0 +1,16 @@
+{
+  "name": "trmnl-render",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.21.2",
+    "playwright-chromium": "^1.44.1"
+  }
+}
